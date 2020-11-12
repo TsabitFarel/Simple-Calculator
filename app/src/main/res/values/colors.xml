@@ -10,4 +10,6 @@
     <color name="redlight">#1D1D1D</color>
     <color name="peace">#ffefea</color>
     <color name="calculatorbg">#fbd9d3</color>
+    <color name="ghostWhite">#f8f8ff</color>
+    <color name="lightGray">#C0C0C0</color>
 </resources>
